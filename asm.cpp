@@ -3,10 +3,7 @@
  *
  *
 TITLE: Assembler
-AUTHOR: Gaurav Kumar
-ROLL NO.: 2201CS25
-Declaration of Authorship
-This C++ file, asm.cpp, is part of the assignment of CS209 & CS210 at the department of Computer Science and Engg., IIT Patna .
+AUTHOR: Nalin
 *
 *
 *
